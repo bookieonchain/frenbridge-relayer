@@ -1,0 +1,6 @@
+.env
+frenbridge.db
+keystore.key
+monitor.log
+test123
+__pycache__/
